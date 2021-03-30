@@ -1,0 +1,43 @@
+
+
+h1{
+     margin: 0;
+    
+}
+.top{
+    position: relative;
+ background-color: rgb(144, 180, 214);   
+ padding-top:100px;
+   
+}
+.middle{background-color: blue;
+    width: 200px;
+    height: 200px;  
+     
+    border: solid 20px;
+    margin-left: 260px;
+}
+.bottom{background-color: chocolate;
+    width: 200px;
+    height: 200px; 
+    border: solid 10px;
+    margin-left: 500px;
+}
+.pro{
+    text-decoration: underline;
+}
+body{
+    margin: 0%;
+    text-align: center;
+}
+.bottom-cloud{
+    position:absolute;
+    top: 180px;
+    left: 200px;
+}
+.top-cloud{
+    position:absolute;
+    right: 20%;
+    top: 30px;
+
+}
